@@ -12,10 +12,10 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://iamfarraz.github.io/shopstop",
+  "homepage": "https://iamfarraz.github.io/Shop-stop/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b test -d build",
+    "deploy": "gh-pages  -d build",
     "start": "react-scripts  start",
     "build": "react-scripts  build",
     "test": "react-scripts test",
